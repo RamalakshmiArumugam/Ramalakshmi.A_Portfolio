@@ -4,12 +4,10 @@
 - [Skills](#skills)
 - [Tools](#tools)
 - [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
-- 
+- Example of My Work:
   * [Apache Jmeter Portfolio](#Apache-Jmeter-Portfolio)
   * [Playwright Automation Framework Portfolio](#Playwright-Automation-Framework-Portfolio)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  
+   
 ## About me
 I am Ramalakshmi.A . I have 11+ years of experience in Software Testing, 9 years experience  in Manual Testing,  2 years experience in Playwright Automation (TypeScript), and API Testing using Postman. I have worked across Healthcare, E-commerce, Vehicle Insurance, Retail, and CMS domains, delivering high-quality software solutions.
 
