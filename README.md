@@ -19,10 +19,7 @@ Playwright Automation using TypeScript.
 Defect Management, Root Cause Analysis, and Release Validation.
 Collaborating with cross-functional teams in Agile/Scrum environments to ensure timely and high-quality releases.
 
-     
-
-Skill:
-
+**Skill**:
 Testing Artifacts
 Manual Testing
 Automation Testing (Postman)
@@ -30,7 +27,7 @@ Agile Test Planning & Testing
 Testing Lifecycle
 Regression and Functional Testing
 UI & Compatibility Testing
-Performance/Load/Stress Testing
+Performance- Load Testing
 Testing Automation
 Defect/Bug Tracking
 
@@ -38,7 +35,6 @@ Defect/Bug Tracking
 You can download my CV as a PDF from this Google Drive Link
 
 **https://drive.google.com/file/d/1CVRptD2iMK6DF2In_LT4Gs6CWhwekL6g/view?usp=sharing**
-
 
  
 **Skills**
@@ -75,8 +71,22 @@ Results and Reporting
  Integrate with Jenkins for Continuous Integration
 Integrate with Git (Version Control System)
   
-
- Apache Jmeter
+ **Apache Jmeter**
+ 1. Plan the Test
+    Define goals: Decide how many users to test and what response time you want.
+    Identify targets: Pick the web pages, APIs, or servers to test.
+2. Build the Test Plan.
+    Add Thread Group: Set the number of users, ramp-up time, and loop count.
+    Add Samplers: Define the types of requests to send, such as HTTP Request or JDBC Request.
+    Add Config Elements: Set up default values, cookie managers, or CSV data sets for dynamic inputs.
+    Add Timers: Insert pauses between user actions to mimic real human behavior
+    Add Assertions: Verify that server responses contain expected text or status codes.
+3.Run the Test
+    Debug in GUI: Test your script with a single user in the graphical interface.
+    Run in Non-GUI Mode: Execute tests via the command line for actual load testing to save system resources.
+4. Analyze the Results
+     Add Listeners: Use tools like View Results Tree or Aggregate Report.
+     Check metrics: Review error rates, throughput, and response times to find bottlenecks.    
 
  
 **Postman**
