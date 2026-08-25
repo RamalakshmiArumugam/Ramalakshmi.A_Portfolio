@@ -33,7 +33,6 @@ Defect/Bug Tracking
 
 ## CV
 You can download my CV as a PDF from this Google Drive Link
-
 **https://drive.google.com/file/d/1CVRptD2iMK6DF2In_LT4Gs6CWhwekL6g/view?usp=sharing**
 
  
@@ -63,7 +62,6 @@ able to prepare comprehensive bug reports and provide detailed session reports
 **Tools**
 
 **Playwright - Typescript** 
-
 Create automation frameworks using Playwright with Typescript
 Create web ui tests for multiple browsers
 Learn record and playback
@@ -73,7 +71,6 @@ Results and Reporting
 Integrate with Git (Version Control System)
   
 ## Apache Jmeter Portfolio
-
 1. Plan the Test
     Define goals: Decide how many users to test and what response time you want.
     Identify targets: Pick the web pages, APIs, or servers to test.
@@ -91,18 +88,14 @@ Integrate with Git (Version Control System)
      Check metrics: Review error rates, throughput, and response times to find bottlenecks.
    
 <img width="1202" height="351" alt="image" src="https://github.com/user-attachments/assets/c9128852-1a6b-4f5b-b88b-6f863cc0e509" />
-
 <img width="1151" height="341" alt="image" src="https://github.com/user-attachments/assets/2883d198-414f-4725-a5ae-bcf6918b0bd0" />
 <img width="1223" height="486" alt="image" src="https://github.com/user-attachments/assets/293446dd-b6c5-408b-bf3b-4de61a09e451" />
 <img width="1250" height="576" alt="image" src="https://github.com/user-attachments/assets/46709c19-02b0-458c-a4cb-5c0a9f6c895c" />
 <img width="1251" height="566" alt="image" src="https://github.com/user-attachments/assets/9abbd58d-5cb1-4741-9a79-60718bba9175" />
 <img width="1290" height="602" alt="image" src="https://github.com/user-attachments/assets/424b0bcc-824d-474a-8af5-5691aafc7152" />
-
 <img width="1296" height="397" alt="image" src="https://github.com/user-attachments/assets/e717ed8b-31f5-4b4a-8e16-cef3dbb7f0a7" />
 <img width="1202" height="560" alt="image" src="https://github.com/user-attachments/assets/cafccf79-0a75-4084-af40-f8287fbb5137" />
 
-
- 
 **Postman**
 Understand Rest API Automation with Postman
 Assertions in Postman
@@ -114,10 +107,7 @@ Json Schema validations in Postman
 know how to create bug reports
 able to create projects and track their progress
 
- 
- 
- 
- 
+
  # Playwright Automation Framework Portfolio
 
 [![GitHub Actions](https://github.com/Nick-25/playwright-automation-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/Nick-25/playwright-automation-framework/actions/workflows/playwright.yml)
@@ -202,40 +192,16 @@ This framework shows how an automation solution can reduce release risk, improve
 
 The project maps to common QA automation consulting and modernization needs.
 
-- **Selenium to Playwright migrations:** Shows fixtures, auto-waiting, traces, parallel execution, and multi-browser projects as a modernization path.
 - **Playwright implementation:** Provides a reusable baseline with page objects, fixtures, API helpers, test data patterns, and local app orchestration.
 - **CI/CD integration:** Runs build, test, artifact upload, and report publishing through GitHub Actions.
 - **API automation:** Validates authentication, authorization, user management, task workflows, pagination, validation, and negative paths.
-- **Accessibility testing:** Adds axe-powered smoke coverage and UI validation checks for public and authenticated pages.
 - **Framework modernization:** Demonstrates a layered strategy across UI, API, accessibility, visual checks, reporting, and CI.
-
-## Architecture Diagram
-
-```mermaid
-flowchart LR
-  Dev[Developer or CI Runner] --> PW[Playwright Test Runner]
-  PW --> UI[Browser Projects: Chromium and Firefox]
-  PW --> API[Playwright API Requests]
-  PW --> Reports[HTML Report and CTRF JSON]
-  UI --> App[Static Front End in app/]
-  App --> Server[Node.js Server]
-  API --> Server
-  Reports --> GHA[GitHub Actions Summary and Artifacts]
-```
-
-Detailed architecture notes are available in [`docs/architecture.md`](docs/architecture.md), including the application layer, page objects, tests, fixtures, utilities, CI/CD, and reporting strategy.
-
+  
 ## Project Structure
 
 ```text
 .
 |-- app/                         Static front end for the application under test
-|-- docs/                        Supplemental project and application documentation
-|   |-- api-reference.md         API endpoints and authentication details
-|   |-- application-overview.md  Application behavior and test coverage overview
-|   |-- architecture.md          Framework architecture and maintainability notes
-|   |-- postman-usage.md         Manual API exploration with Postman
-|   `-- images/                  Real screenshot captures
 |-- scripts/                     Supporting project scripts
 |-- tests/
 |   |-- fixtures/                Shared Playwright fixtures and seeded users
@@ -245,15 +211,10 @@ Detailed architecture notes are available in [`docs/architecture.md`](docs/archi
 |   `-- README.md                Test-suite usage notes
 |-- .github/
 |   |-- workflows/playwright.yml CI pipeline for build, test, and reporting
-|   |-- CODEOWNERS               Repository ownership
 |   `-- dependabot.yml           Dependency update configuration
 |-- playwright.config.ts         Playwright projects, reporters, and webServer setup
-|-- server.js                    Local Node.js application and API server
-|-- postman_collection.json      API collection for manual API exploration
 |-- package.json                 Node scripts and dependencies
-|-- LICENSE                      MIT license
-`-- README.md                    Portfolio and framework overview
-```
+
 
 ## Technology Stack
 
@@ -289,7 +250,7 @@ The framework produces multiple reporting outputs:
 
 - **Framework maintainability:** Page objects, fixtures, and focused smoke specs keep selectors, setup, and repeated user actions out of specs, making the suite easier to extend as workflows change.
 - **Flaky test reduction:** Playwright auto-waiting, API-driven setup, stable seeded users, and targeted cleanup reduce timing sensitivity and state leakage.
-- **Reporting strategy:** Pairing Playwright HTML reports with CTRF JSON and GitHub Actions summaries gives both engineers and stakeholders useful views of the same execution.
+- **Reporting strategy:** Pairing Playwright HTML reports with JSON and GitHub Actions summaries gives both engineers and stakeholders useful views of the same execution.
 - **Test organization:** Splitting UI workflows, API coverage, fixtures, helpers, and page objects keeps the framework readable while still demonstrating full-stack validation.
 
 ## Local Execution
@@ -310,15 +271,4 @@ npm test
 - Introduce test data factories for larger API and UI scenarios
 - Add contract-style validation for API response schemas
 - Publish test trend data across CI runs
-
-
-**Performance & Scalability Testing — JMeter
-**
-As part of my QA Lead role at [GHX Healthcare / Innomaint — pick the real project], I used Apache JMeter to validate application performance under concurrent user load.
-
-Built JMeter test plans for critical flows such as [login, document upload, search — pick real ones]
-Configured Thread Groups to simulate [X] concurrent users, running Load and Stress test scenarios
-Measured response time, throughput (TPS), and error rate using JMeter's Aggregate Report and Summary Report listeners
-Identified a performance bottleneck at approximately [X] concurrent users, traced to [DB connection pool / server memory / API timeout]
-Worked with the development team to resolve it; response time improved from [X]s to [Y]s after the fix
-Findings were used as part of release sign-off criteria before go-live
+ 
