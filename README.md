@@ -27,16 +27,16 @@ Testing Artifacts
 Manual Testing
 Automation Testing (Postman)
 Agile Test Planning & Testing
-System Testing and Testing Lifecycle
+Testing Lifecycle
 Regression and Functional Testing
 UI & Compatibility Testing
-Data Interface & Migration Testing
 Performance/Load/Stress Testing
 Testing Automation
 Defect/Bug Tracking
-Using Katalon, Selenium, APache JMeter
+
 CV
-You can download my CV as a PDF from my Google Drive.
+You can download my CV as a PDF from this Google Drive Link
+##https://drive.google.com/file/d/1LPmbWw0UsYS7Rf3-57yMo73LIK7Rcv3X/view?usp=drive_link
 
 Skills
 You can find examples of the described skills in the Examples of my work section.
