@@ -9,6 +9,15 @@
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   
 ## About me
+I am Ramalakshmi.A . I have 11+ years of experience in Software Testing, 9 years experience  in Manual Testing,  2 years experience in Playwright Automation (TypeScript), and API Testing using Postman. I have worked across Healthcare, E-commerce, Vehicle Insurance, Retail, and CMS domains, delivering high-quality software solutions.
+
+In my recent role as a Test Module Lead, I was responsible for:
+Test Planning,Test Case Design and Test Case Execution
+Functional, Regression, Smoke, Integration, and UAT Testing.
+API Testing using Postman  
+Playwright Automation using TypeScript.
+Defect Management, Root Cause Analysis, and Release Validation.
+Collaborating with cross-functional teams in Agile/Scrum environments to ensure timely and high-quality releases.
 
      
 
