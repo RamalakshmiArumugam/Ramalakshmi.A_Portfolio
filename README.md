@@ -31,7 +31,7 @@ Performance- Load Testing
 Testing Automation
 Defect/Bug Tracking
 
-**CV**
+##**CV**
 You can download my CV as a PDF from this Google Drive Link
 
 **https://drive.google.com/file/d/1CVRptD2iMK6DF2In_LT4Gs6CWhwekL6g/view?usp=sharing**
