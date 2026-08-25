@@ -86,7 +86,14 @@ Integrate with Git (Version Control System)
     Run in Non-GUI Mode: Execute tests via the command line for actual load testing to save system resources.
 4. Analyze the Results
      Add Listeners: Use tools like View Results Tree or Aggregate Report.
-     Check metrics: Review error rates, throughput, and response times to find bottlenecks.    
+     Check metrics: Review error rates, throughput, and response times to find bottlenecks.
+     <img width="1202" height="351" alt="image" src="https://github.com/user-attachments/assets/c9128852-1a6b-4f5b-b88b-6f863cc0e509" />
+
+<img width="1151" height="341" alt="image" src="https://github.com/user-attachments/assets/2883d198-414f-4725-a5ae-bcf6918b0bd0" />
+
+<img width="1296" height="397" alt="image" src="https://github.com/user-attachments/assets/e717ed8b-31f5-4b4a-8e16-cef3dbb7f0a7" />
+<img width="1202" height="560" alt="image" src="https://github.com/user-attachments/assets/cafccf79-0a75-4084-af40-f8287fbb5137" />
+
 
  
 **Postman**
