@@ -5,7 +5,7 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+  * [Apache Jmeter Portfolio](#Apache Jmeter Portfolio)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   
 ## About me
@@ -71,8 +71,9 @@ Results and Reporting
  Integrate with Jenkins for Continuous Integration
 Integrate with Git (Version Control System)
   
- **Apache Jmeter**
- 1. Plan the Test
+## Apache Jmeter Portfolio
+
+1. Plan the Test
     Define goals: Decide how many users to test and what response time you want.
     Identify targets: Pick the web pages, APIs, or servers to test.
 2. Build the Test Plan.
@@ -87,9 +88,14 @@ Integrate with Git (Version Control System)
 4. Analyze the Results
      Add Listeners: Use tools like View Results Tree or Aggregate Report.
      Check metrics: Review error rates, throughput, and response times to find bottlenecks.
-     <img width="1202" height="351" alt="image" src="https://github.com/user-attachments/assets/c9128852-1a6b-4f5b-b88b-6f863cc0e509" />
+   
+<img width="1202" height="351" alt="image" src="https://github.com/user-attachments/assets/c9128852-1a6b-4f5b-b88b-6f863cc0e509" />
 
 <img width="1151" height="341" alt="image" src="https://github.com/user-attachments/assets/2883d198-414f-4725-a5ae-bcf6918b0bd0" />
+<img width="1223" height="486" alt="image" src="https://github.com/user-attachments/assets/293446dd-b6c5-408b-bf3b-4de61a09e451" />
+<img width="1250" height="576" alt="image" src="https://github.com/user-attachments/assets/46709c19-02b0-458c-a4cb-5c0a9f6c895c" />
+<img width="1251" height="566" alt="image" src="https://github.com/user-attachments/assets/9abbd58d-5cb1-4741-9a79-60718bba9175" />
+<img width="1290" height="602" alt="image" src="https://github.com/user-attachments/assets/424b0bcc-824d-474a-8af5-5691aafc7152" />
 
 <img width="1296" height="397" alt="image" src="https://github.com/user-attachments/assets/e717ed8b-31f5-4b4a-8e16-cef3dbb7f0a7" />
 <img width="1202" height="560" alt="image" src="https://github.com/user-attachments/assets/cafccf79-0a75-4084-af40-f8287fbb5137" />
