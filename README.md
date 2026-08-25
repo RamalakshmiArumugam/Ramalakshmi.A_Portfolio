@@ -6,6 +6,7 @@
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
   * [Apache Jmeter Portfolio](#Apache Jmeter Portfolio)
+
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   
 ## About me
